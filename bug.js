@@ -1,0 +1,1 @@
+This bug occurs when using the Expo SDK's `Camera` component in conjunction with certain Android devices.  The camera preview may freeze or become unresponsive after a short period, particularly when switching between cameras or modes. This is not consistent across all Android devices.
